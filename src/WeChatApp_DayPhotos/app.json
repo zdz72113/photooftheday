@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index1/index1"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "每日一图",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#bfbfbf",
+    "selectedColor": "#4cd964",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "assets/img/tabbar/bing.png",
+        "selectedIconPath": "assets/img/tabbar/bing_active.png",
+        "text": ""
+      },{
+        "pagePath": "pages/index1/index1",
+        "iconPath": "assets/img/tabbar/geographic.png",
+        "selectedIconPath": "assets/img/tabbar/geographic_active.png",
+        "text": ""
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

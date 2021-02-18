@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{60308BC4-9B42-4799-8116-3844DE75FFAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestBing", "TestBing\TestBing.csproj", "{17D5DB61-4249-4FA2-BE31-36605AB2395A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DayPhotos.API", "DayPhotos.API\DayPhotos.API.csproj", "{D3E06871-0C86-4164-8974-F6292855C193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D5DB61-4249-4FA2-BE31-36605AB2395A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D5DB61-4249-4FA2-BE31-36605AB2395A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D5DB61-4249-4FA2-BE31-36605AB2395A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D5DB61-4249-4FA2-BE31-36605AB2395A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E06871-0C86-4164-8974-F6292855C193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E06871-0C86-4164-8974-F6292855C193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E06871-0C86-4164-8974-F6292855C193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E06871-0C86-4164-8974-F6292855C193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{17D5DB61-4249-4FA2-BE31-36605AB2395A} = {60308BC4-9B42-4799-8116-3844DE75FFAB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CA4DB1C-E71B-4F8E-89AD-B2E79498705F}
+	EndGlobalSection
+EndGlobal

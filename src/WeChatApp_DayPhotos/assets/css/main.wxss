@@ -1,0 +1,54 @@
+/* 文字颜色 */
+.gh-green {
+  color: #4cd964;
+}
+.gh-white {
+  color: #ffffff;
+}
+.gh-gray {
+  color: gray;
+}
+.gh-bold {
+  font-weight: bold;
+}
+.gh-boder-bottom {
+  border-bottom: 4rpx solid #4cd964;
+}
+.gh-text-small {
+  font-size: 26rpx;
+}
+.gh-text-mid {
+  font-size: 30rpx;
+}
+.gh-text-large {
+  font-size: 34rpx;
+}
+.gh-page-contanin {
+  padding: 20rpx;
+}
+.gh-swiper-box {
+  height: calc(100vh - 70rpx);
+}
+.gh-swiper-box-list {
+  height: calc(100vh - 140rpx)
+}
+
+/* 背景色 */
+.gh-bg-green {
+  color: #4cd964;
+}
+.gh-bg-white {
+  background: #ffffff;
+}
+.clearfix::after {
+  content: '';
+  height: 0;
+  clear: both;
+  display: block;
+  visibility: hidden;
+}
+.clearfix {
+  zoom: 1;
+}
+
+
