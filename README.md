@@ -13,4 +13,4 @@ photo of the day from bing and national geographic, include info collector, web 
 - https://www.nationalgeographic.com/photography/photo-of-the-day
 
 ## 小程序预览
-![预览](https://github.com/zdz72113/photooftheday/blob/main/img/qrcode.jpg)
+已停止服务
